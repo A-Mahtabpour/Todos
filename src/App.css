@@ -1,0 +1,8 @@
+
+div#todoBlock{
+   max-height: 450px;
+    overflow: auto;
+}
+button{
+    margin: 0 2px;
+}
